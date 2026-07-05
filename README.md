@@ -1,2 +1,14 @@
 # Basic-HTML-Website
-I created this project in hopes to better understand how to structure a website using HTML and including different elements such as the header, footer, navigation, main content, and side bars.
+
+This is a multi-page HTML-only website project.
+
+4 Pages
+- Home
+- Projects
+- Articles
+- Contact
+
+- HTML only
+
+Project URL
+http://127.0.0.1:5500/Basic%20HTML%20Website/Index(1).html
